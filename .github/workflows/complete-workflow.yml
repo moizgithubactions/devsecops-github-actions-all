@@ -1,4 +1,4 @@
-name: this Builds the  code, run unit test, run SAST, SCA, DAST security scans
+name: tTis Builds the  code, run unit test, run SAST, SCA, DAST security scans
 on: push
 
 jobs:
